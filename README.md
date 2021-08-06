@@ -22,13 +22,13 @@ My name is Smriti Shakya. I recently completed by Undergrad in Computer Science 
 
 ## Connect with me:
 
-[<img alt="website" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />](https://www.linkedin.com/in/smriti-shakya-56432a160/)
+[<img alt="website" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />](https://www.linkedin.com/in/smriti-shakya)
+
 
 </br>
 
 ## GitHub Status:
 
-[![Prasoon Shakya's github stats](https://github-readme-stats.vercel.app/api?username=smriteshakya&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smriteshakya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/smriteshakya/smriteshakya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=smriteshakya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
