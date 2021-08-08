@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-My name is Smriti Shakya. I recently completed by Undergrad in Computer Science and i'm currently working on building my web Development skills.
-
+My name is Smriti Shakya. 
+I recently completed by Undergrad in Computer Science from UTArlington.  
+- 🔭 I’m currently working on building my web Development skills.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: Smriteshakya002@gmail.com
 </br>
 
 ## Connect with me:
