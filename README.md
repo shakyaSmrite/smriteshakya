@@ -29,8 +29,8 @@ My name is Smriti Shakya. I recently completed by Undergrad in Computer Science 
 
 ## GitHub Status:
 
-<a href="https://github.com/smriteshakya/smriteshakya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=smriteshakya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+##<a href="https://github.com/smriteshakya/smriteshakya">
+ ##<img align="center" src="https://github-readme-stats.vercel.app/api?##username=smriteshakya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smriteshakya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
